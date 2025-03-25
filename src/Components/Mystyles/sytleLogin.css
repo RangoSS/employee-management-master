@@ -1,0 +1,25 @@
+.login{
+    width: 50%;
+    color: darkblue;
+    margin-left:25% ;
+    
+}
+.login button{
+width: 50%;
+}
+.register button{
+    width: 100%;
+}
+
+.regis{
+    width: 20%;
+}
+
+ input[type=date] {
+
+    width: 20%;
+ }
+
+.custom-select{
+    width: 20%;
+}
