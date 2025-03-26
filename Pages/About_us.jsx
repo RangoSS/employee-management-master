@@ -1,6 +1,5 @@
 import React from 'react'
 import Table from '../src/Components/Table'
-import Header from '../src/Components/header'
 
 
 
@@ -8,7 +7,7 @@ import Header from '../src/Components/header'
 const About_us = () => {
     return (
         <div className='container text-center' style={{ color: 'blue', fontSize: '24px', border: 'solid red' }}>
-            <Header />
+    
             <h1 className=''>about us page</h1>
 
             <Table />
