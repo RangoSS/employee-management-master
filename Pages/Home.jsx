@@ -1,6 +1,6 @@
 
 import React from 'react'
-import Header from '../src/Components/header'
+//import Header from '../src/Components/header'
 import Sidebar from '../src/Components/Sidebar'
 import Home_intro from '../src/Components/Home_intro'
 import Title from '../src/Components/Title';
@@ -20,7 +20,7 @@ const Home = () => {
 
                     {/*add top bar ,all data will be displayed here*/}
                     <div className="col">
-                        <Header />
+                        {/* <Header />*/}
                         <Title subTitle='Our Program' title='what we offer' />
                         <Home_intro />
                     </div>

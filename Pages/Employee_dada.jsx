@@ -1,6 +1,6 @@
 import React from 'react'
 import Sidebar from '../src/Components/Sidebar';
-import Header from '../src/Components/header';
+//import Header from '../src/Components/header';
 import Title from '../src/Components/Title';
 {/*import Employeedatam from '../src/Components/Employeedatam';*/ }
 import FormData from '../src/Components/FormData';
@@ -14,7 +14,7 @@ const Employee_dada = () => {
                     <Sidebar />
                 </div>
                 <main className="col">
-                    <Header />
+                   {/* <Header />*/ }
                     <Title subTitle='Welcome to our dashboard' title='Employee Registration' />
 
                     <div className="row">
